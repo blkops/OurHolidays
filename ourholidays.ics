@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#OurHolidays
+X-WR-TIMEZONE:America/Phoenix
+X-WR-CALDESC:Celebrate the days we can identify with.
+BEGIN:VTIMEZONE
+TZID:America/Phoenix
+X-LIC-LOCATION:America/Phoenix
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080525
+DTEND;VALUE=DATE:20080526
+RRULE:FREQ=YEARLY;WKST=SU
+DTSTAMP:20150120T075442Z
+UID:c6dvmfor89465rbabb32ecram4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=#OurHo
+ lidays;X-NUM-GUESTS=0:mailto:nnqpjcrljellne02oleai4jmtg@group.calendar.goog
+ le.com
+CREATED:20071104T054912Z
+DESCRIPTION:Africa Day is the annual commemoration on May 25 of the 1963 fo
+ unding of the Organisation of African Unity (OAU)\, which was in July 2002 
+ succeeded by the present African Union\, while amalgamating with the Africa
+ n Economic Community (AEC)\, but kept the date and name of Africa Day.
+LAST-MODIFIED:20150119T225846Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Africa Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080817
+DTEND;VALUE=DATE:20080818
+RRULE:FREQ=YEARLY;WKST=SU
+DTSTAMP:20150120T075442Z
+UID:fgipgehn7u3jpe4bir3flghpng@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=#OurHo
+ lidays;X-NUM-GUESTS=0:mailto:nnqpjcrljellne02oleai4jmtg@group.calendar.goog
+ le.com
+CREATED:20071104T055108Z
+DESCRIPTION:Marcus Mosiah Garvey\, Jr.\, ONH\, was a Jamaican political lea
+ der\, publisher\, journalist\, entrepreneur\, and orator who was a staunch 
+ proponent of the Black Nationalism and Pan-Africanism movements\, to ...
+LAST-MODIFIED:20150119T225811Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marcus Garvey's Birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080519
+DTEND;VALUE=DATE:20080520
+RRULE:FREQ=YEARLY;WKST=SU
+DTSTAMP:20150120T075442Z
+UID:orrjpjgsqg9tm2qf1od3jsb0a0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=#OurHo
+ lidays;X-NUM-GUESTS=0:mailto:nnqpjcrljellne02oleai4jmtg@group.calendar.goog
+ le.com
+CREATED:20071104T055357Z
+DESCRIPTION:Malcolm X\, born Malcolm Little and also known as El-Hajj Malik
+  El-Shabazz\, was an African-American Muslim minister and a human rights ac
+ tivist. 
+LAST-MODIFIED:20150119T225713Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:El-Hajj Malik El-Shabazz's(Malcolm X) Birthday 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20080629
+DTEND;VALUE=DATE:20080630
+RRULE:FREQ=YEARLY;WKST=SU
+DTSTAMP:20150120T075442Z
+UID:1qnu2192nu2fapdfp07lht14k8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=#OurHo
+ lidays;X-NUM-GUESTS=0:mailto:nnqpjcrljellne02oleai4jmtg@group.calendar.goog
+ le.com
+CREATED:20071104T055619Z
+DESCRIPTION:Stokely Carmichael\, also known as Kwame Ture\, was a Trinidadi
+ an-American activist active in the 1960s Civil Rights Movement\, and later\
+ , the global Pan-African movement.
+LAST-MODIFIED:20150119T225603Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kwame Ture's (Stokely Carmichael) Birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150716
+DTEND;VALUE=DATE:20150717
+RRULE:FREQ=YEARLY
+DTSTAMP:20150120T075442Z
+UID:n94eg9gfdg11deh2doirp9ng5k@google.com
+CREATED:20150119T225449Z
+DESCRIPTION:Ida Bell Wells-Barnett was an African-American journalist\, new
+ spaper editor\, suffragist\, sociologist\, and an early leader in the civil
+  rights movement.
+LAST-MODIFIED:20150119T225449Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ida B. Wells Day
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
