@@ -6,4 +6,4 @@ This calendar can be imported into any mail client that supports the iCal format
 - Microsoft Outlook
 - Yahoo Calendar
 - Facebook
--[Additional applications that support the iCal format](http://en.wikipedia.org/wiki/List_of_applications_with_iCalendar_support)
+- [Additional applications that support the iCal format](http://en.wikipedia.org/wiki/List_of_applications_with_iCalendar_support)
